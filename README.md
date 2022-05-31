@@ -5,6 +5,6 @@ The plans are to fix TypeScript well.
 - 💞️From a hobby: I like to walk a lot, ride a scooter. In the summer I go diving and snorkeling whenever possible.
 
 - 📫 How to contact me: 
-    ✨Telegram: @zhenya_lashukova
-    ✨ email: zhenya-lashukova@yandex.ru
-    ✨phone: +7(999) 235 09 05
+    - ✨Telegram: @zhenya_lashukova
+    - ✨ email: zhenya-lashukova@yandex.ru
+    - ✨phone: +7(999) 235 09 05
