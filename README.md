@@ -8,6 +8,6 @@ The plans are to fix TypeScript well.
   - **SPA на React + JS** - https://github.com/sanny410/list-user-info
   - **Мини приложение на Vue + JS** - https://github.com/sanny410/beer-recommendation
 - 📫 How to contact me: 
-    - ✨Telegram: @zhenya_lashukova
-    - ✨ email: zhenya-lashukova@yandex.ru
-    - ✨phone: +7(999) 235 09 05
+    - ✨*Telegram:* @zhenya_lashukova
+    - ✨*Email:* zhenya-lashukova@yandex.ru
+    - ✨*Phone:* +7(999) 235 09 05
