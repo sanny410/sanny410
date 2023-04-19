@@ -1,13 +1,12 @@
-- 👋 Hi, I'm Evgenia Lashukova, I live in St. Petersburg.
-- 👀 I'm a beginner frontend developer. I am proficient in the basic stack of HTML, CSS, JS. I actively use React + Redux. I am also learning Vue and I want to master it well.
-The plans are to fix TypeScript well.
-- 🌱 I am now studying on my own, inventing my own projects, learning new technologies. I am actively looking for a job or internship.
-- 💞️From a hobby: I like to walk a lot, ride a scooter. In the summer I go diving and snorkeling whenever possible.
+- 👋 Hi, I'm Evgenia Lashukova, I live in Moscow.
+- 👀 I am sincerely passionate about web development and do a lot of it in the free time to get up-to-date knowledge and practice a lot. 
+- 🌱 I have knowledge of HTML, CSS(SCSS), JS, Git, Webpack, I can adaptively layout. I work with React and Vue frameworks. Core React + TypeScript stack.
+- 💞️From a hobby: I like to walk a lot, ride a scooter. My dream is to learn to surf. Also get a diving certificate.
 - In my opinion my best projects are: 
-  - **SPA на React + JS, Redux** - https://github.com/sanny410/posts-users
-  - **SPA на React + JS** - https://github.com/sanny410/list-user-info
-  - **Мини приложение на Vue + JS** - https://github.com/sanny410/beer-recommendation
-- 📫 How to contact me: 
+  - **SPA на React + TypeScript, MobX** - https://github.com/sanny410/test_project
+  - **SPA на React + JS** - https://github.com/sanny410/GIFs-with-cats
+  - **An example of adaptive layout** - https://github.com/sanny410/Landing-page-Apex
+- 📫 How to contact me:
     - ✨*Telegram:* @zhenya_lashukova
     - ✨*Email:* zhenya-lashukova@yandex.ru
     - ✨*Phone:* +7(999) 235 09 05
