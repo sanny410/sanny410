@@ -4,7 +4,7 @@
 - 💞️From a hobby: I like to walk a lot, ride a scooter. My dream is to learn to surf. Also get a diving certificate.
 - In my opinion my best projects are: 
   - **SPA на React + TypeScript, MobX** - https://github.com/sanny410/test_project
-  - **SPA на React + JS** - https://github.com/sanny410/GIFs-with-cats
+  - **SPA на React + JS** - https://github.com/sanny410/frontend-challenge
   - **An example of adaptive layout** - https://github.com/sanny410/Landing-page-Apex
 - 📫 How to contact me:
     - ✨*Telegram:* @zhenya_lashukova
