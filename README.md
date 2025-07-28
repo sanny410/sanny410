@@ -1,12 +1,18 @@
-- 👋 Hi, I'm Evgenia Lashukova, I live in Moscow.
-- 👀 I am sincerely passionate about web development and do a lot of it in the free time to get up-to-date knowledge and practice a lot. 
-- 🌱 I have knowledge of HTML, CSS(SCSS), JS, Git, Webpack, I can adaptively layout. I work with React and Vue frameworks. Core React + TypeScript stack.
-- 💞️From a hobby: I like to walk a lot, ride a scooter. My dream is to learn to surf. Also get a diving certificate.
-- In my opinion my best projects are: 
-  - **SPA на React + TypeScript, MobX** - https://github.com/sanny410/test_project
-  - **SPA на React + JS** - https://github.com/sanny410/frontend-challenge
-  - **An example of adaptive layout** - https://github.com/sanny410/Landing-page-Apex
-- 📫 How to contact me:
-    - ✨*Telegram:* @zhenya_lashukova
-    - ✨*Email:* zhenya-lashukova@yandex.ru
-    - ✨*Phone:* +7(999) 235 09 05
+👋 Hi, I'm Evgenia Lashukova, a frontend developer based in Moscow.
+
+💼 I’ve been working as a frontend developer at Tinkoff Bank (T‑Bank) for almost 2 years.
+My main stack is React + TypeScript. I focus on building clear, maintainable UI with attention to UX and performance.
+
+🛠️ Tech stack & skills:
+- Core: React, TypeScript, JavaScript (ES6+)
+- State management: React Query, Redux, MobX
+- Styling: SCSS, CSS Modules
+- Tooling: Git, Webpack, ESLint, Prettier
+- Testing: Jest, Testing Library, Storybook, Creevey
+- Other: Adaptive & responsive layout, accessibility, clean code practices
+
+📫 Let’s connect:
+
+💬 Telegram: @zhenya_lashukova
+📧 Email: zhenya-lashukova@yandex.ru
+📱 Phone: +7 (999) 235‑09‑05
